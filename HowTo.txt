@@ -1,0 +1,6 @@
+To crawl data and build index, run:
+cd src
+chmod +x run_crawler_indexer.sh
+
+After this, to start query, run:
+python query.py
